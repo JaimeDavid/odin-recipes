@@ -1,0 +1,29 @@
+.header{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+h1{
+    font: italic 1.2em "Fira Sans", serif;
+    font-size: 60px;   
+    margin-left: 50px;
+    align-self: center;
+}
+
+.portrait{
+    height: 200px;
+    width: 200px;
+
+}
+
+.recipe-image{
+    max-height: 100%;
+    max-width: 100%;
+}
+
+.content{
+    display: flex;
+    justify-content: space-around;
+}
+
