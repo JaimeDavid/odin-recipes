@@ -27,3 +27,21 @@ h1{
     justify-content: space-around;
 }
 
+.recipe-image-eggs{
+    height: 200px;
+    width: 200px;
+}
+
+.image-recipe{
+    margin-left: 50px;
+}
+
+.intro-text{
+    position: absolute;
+}
+
+
+.content-recipe{
+    display:flex;
+    align-self: center;
+}
