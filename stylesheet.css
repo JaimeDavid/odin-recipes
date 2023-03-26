@@ -37,7 +37,9 @@ h1{
 }
 
 .intro-text{
-    position: absolute;
+    
+    display: flex;
+    
 }
 
 
